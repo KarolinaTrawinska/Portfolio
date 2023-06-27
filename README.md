@@ -25,7 +25,7 @@ organised by Netlea Michał Purowski
 * "Podstawy IT"
 organised by ProductVIsion
 
-* "Zostań Testerem:
+* "Zostań Testerem"
 organised by Sii Training Practice
 
 ### Books
