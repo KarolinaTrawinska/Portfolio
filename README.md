@@ -38,3 +38,8 @@ ISTQB Certified Tester Foundation Level (05/2023)
 * organised
 * good comunication skills
 * team player
+
+# Projects
+
+### Bugs reports
+[An Internal Link] https://github.com/karolinatra/MrBuggy
