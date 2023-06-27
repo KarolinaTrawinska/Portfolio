@@ -15,7 +15,7 @@ Internet. I am eager to learn about new solutions and technologies.
 
 ### Tech Skills
 *SQL
-*Creating test cases 
+*Creating test cases
 *Reporting bugs
 
 ### Courses
