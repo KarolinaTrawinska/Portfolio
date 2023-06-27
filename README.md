@@ -14,9 +14,9 @@ Internet. I am eager to learn about new solutions and technologies.
 * GitHub
 
 ### Tech Skills
-*SQL
-*Creating test cases
-*Reporting bugs
+* SQL
+* Creating test cases
+* Reporting bugs
 
 ### Courses
 * "Tester Oprogramowania Poziom Pierwszy"
