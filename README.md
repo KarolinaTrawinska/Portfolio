@@ -1,5 +1,5 @@
 # Portfolio
-# About Me
+## About Me
 My name is Karolina Trawińska. By education I am a master of pharmacy. In my current job, among other things, I am responsible for
 professional customer service, ensuring compliance with the Pharmaceutical Law and keeping an eye on
 the stock of the pharmacy. My superiors appreciate me for my commitment, meticulousness and ability to
