@@ -1,3 +1,3 @@
 # Portfolio
-# Nagłówek 1 About Me
+# About Me
 My name is Karolina Trawińska
