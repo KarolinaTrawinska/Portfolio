@@ -28,5 +28,8 @@ organised by ProductVIsion
 "Zostań Testerem:
 organised by Sii Training Practice
 
+# Books
+Zawód tester - R.Smilgin
+
 # Certificates 
 ISTQB Certified Tester Foundation Level (05/2023)
