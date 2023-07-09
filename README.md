@@ -10,8 +10,8 @@ Internet. I am eager to learn about new solutions and technologies.
 ### Tools
 * Jira
 * TestLink
-* Postman - in progress
 * GitHub
+* Java - in progress
 
 ### Tech Skills
 * SQL
@@ -47,4 +47,6 @@ MrBuggy6 https://github.com/karolinatra/MrBuggy
 ### Test Raports
 https://github.com/karolinatra/Test-Cases-and-Reports
 
+### Java
+https://github.com/karolinatra/JavaLearning/commits/master/src
 
