@@ -45,5 +45,6 @@ ISTQB Certified Tester Foundation Level (05/2023)
 MrBuggy6 https://github.com/karolinatra/MrBuggy
 
 ### Test Raports
+Dr Max Drogeria https://github.com/karolinatra/Test-Cases-and-Reports
 
 
