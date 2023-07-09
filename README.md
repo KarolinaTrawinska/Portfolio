@@ -42,7 +42,7 @@ ISTQB Certified Tester Foundation Level (05/2023)
 # Projects
 
 ### Bugs reports
-MrBuggy6 https://github.com/karolinatra/MrBuggy
+https://github.com/karolinatra/MrBuggy
 
 ### Test Raports
 https://github.com/karolinatra/Test-Cases-and-Reports
