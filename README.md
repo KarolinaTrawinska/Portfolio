@@ -48,5 +48,5 @@ https://github.com/karolinatra/MrBuggy
 https://github.com/karolinatra/Test-Cases-and-Reports
 
 ### Java
-https://github.com/karolinatra/JavaLearning/commits/master/src
+https://github.com/KarolinaTrawinska/JavaLearning/tree/master/src
 
